@@ -22,7 +22,7 @@ Food OnlineMeal is a simple and stylish web project that showcases an online foo
 
 ## 📸 Website Preview
 
-![Food OnlineMeal Preview](food online preview.jpeg)
+![Preview](food online preview.jpeg)
 
 ---
 
